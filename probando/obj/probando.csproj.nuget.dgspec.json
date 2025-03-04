@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/haroldjuj/Documents/Platzi/miPrimerRepo/probando/probando.csproj": {}
+    "/Users/haroldjuj/Documents/Platzi 2025/Proyectos/miPrimerRepo/probando/probando.csproj": {}
   },
   "projects": {
-    "/Users/haroldjuj/Documents/Platzi/miPrimerRepo/probando/probando.csproj": {
+    "/Users/haroldjuj/Documents/Platzi 2025/Proyectos/miPrimerRepo/probando/probando.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/haroldjuj/Documents/Platzi/miPrimerRepo/probando/probando.csproj",
+        "projectUniqueName": "/Users/haroldjuj/Documents/Platzi 2025/Proyectos/miPrimerRepo/probando/probando.csproj",
         "projectName": "probando",
-        "projectPath": "/Users/haroldjuj/Documents/Platzi/miPrimerRepo/probando/probando.csproj",
+        "projectPath": "/Users/haroldjuj/Documents/Platzi 2025/Proyectos/miPrimerRepo/probando/probando.csproj",
         "packagesPath": "/Users/haroldjuj/.nuget/packages/",
-        "outputPath": "/Users/haroldjuj/Documents/Platzi/miPrimerRepo/probando/obj/",
+        "outputPath": "/Users/haroldjuj/Documents/Platzi 2025/Proyectos/miPrimerRepo/probando/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/haroldjuj/.nuget/NuGet/NuGet.Config"
